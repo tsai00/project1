@@ -1,0 +1,1191 @@
+19.01.2022 10:57:41 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 10:58:00 - ERROR - [ORTEC] Wrong output format or SQL mode for <PlayersStats>!
+19.01.2022 10:59:19 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:22:58 - ERROR - [DATABASE] Unable to connect to database!
+19.01.2022 17:22:58 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:22:58 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:22:58 - ERROR - [ORTEC] Wrong attribute for table <PlayersStats: 'HomePlayerStatistics'.
+19.01.2022 17:23:33 - ERROR - [DATABASE] Unable to connect to database!
+19.01.2022 17:23:38 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:23:39 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:23:43 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:23:43 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:23:43 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:23:43 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:23:44 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:23:45 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:23:45 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:23:47 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:23:48 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:31:37 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:31:39 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:31:40 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:31:43 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:31:43 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:31:43 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:31:43 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:31:43 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:31:43 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:31:43 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:31:44 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:31:44 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:32:42 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:32:44 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:32:44 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:32:49 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:32:49 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:32:49 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:32:49 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:32:49 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:32:49 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:32:49 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:32:50 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:32:50 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:35:27 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:35:29 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:35:30 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:35:33 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:35:33 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:35:33 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:35:33 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:35:33 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:35:33 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:35:33 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:35:34 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:35:34 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error for table <TeamsLineUp>: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8).
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 639, in export_team_lineups
+    inspector = inspect(self.__db.engine)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/inspection.py", line 64, in inspect
+    ret = reg(subject)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 182, in _engine_insp
+    return Inspector._construct(Inspector._init_engine, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 117, in _construct
+    init(self, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 128, in _init_engine
+    engine.connect().close()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3197, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3276, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3247, in _wrap_pool_connect
+    e, dialect, self
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2101, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.OperationalError: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <Id> for table <Teams>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <Id> for table <Teams> was successfully added!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <MatchID> for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <MatchID> for table <Matches> was successfully added!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <PersonId> for table <Persons>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <PersonId> for table <Persons> was successfully added!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <Id> for table <VenuesMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <Id> for table <VenuesMeta> was successfully added!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <Id> for table <PlayerStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <Id> for table <PlayerStatsMeta> was successfully added!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <Id> for table <TeamStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <Id> for table <TeamStatsMeta> was successfully added!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <Id> for table <PositionsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <Id> for table <PositionsMeta> was successfully added!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <None> for table <PlayersStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <None> for table <PlayersStats> was successfully added!
+19.01.2022 17:35:44 - ERROR - [ORTEC] Error while setting PK <None> for table <TeamsStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 173, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:35:44 - INFO - [ORTEC] PK <None> for table <TeamsStats> was successfully added!
+19.01.2022 17:37:57 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:38:00 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:38:00 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:38:03 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:38:03 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:38:03 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:38:03 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:38:04 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:38:05 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:38:05 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:38:06 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:38:06 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error for table <TeamsLineUp>: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8).
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 643, in export_team_lineups
+    inspector = inspect(self.__db.engine)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/inspection.py", line 64, in inspect
+    ret = reg(subject)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 182, in _engine_insp
+    return Inspector._construct(Inspector._init_engine, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 117, in _construct
+    init(self, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 128, in _init_engine
+    engine.connect().close()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3197, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3276, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3247, in _wrap_pool_connect
+    e, dialect, self
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2101, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.OperationalError: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <Id> for table <Teams>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <MatchID> for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <PersonId> for table <Persons>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <Id> for table <VenuesMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <Id> for table <PlayerStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <Id> for table <TeamStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <Id> for table <PositionsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <None> for table <PlayersStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:38:17 - ERROR - [ORTEC] Error while setting PK <None> for table <TeamsStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:14 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:40:16 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:40:17 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:40:20 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:40:20 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:40:20 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:40:20 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:40:20 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:40:20 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:40:20 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:40:21 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:40:21 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error for table <TeamsLineUp>: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8).
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 643, in export_team_lineups
+    inspector = inspect(self.__db.engine)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/inspection.py", line 64, in inspect
+    ret = reg(subject)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 182, in _engine_insp
+    return Inspector._construct(Inspector._init_engine, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 117, in _construct
+    init(self, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 128, in _init_engine
+    engine.connect().close()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3197, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3276, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3247, in _wrap_pool_connect
+    e, dialect, self
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2101, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.OperationalError: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <Id> for table <Teams>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <MatchID> for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <PersonId> for table <Persons>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <Id> for table <VenuesMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <Id> for table <PlayerStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <Id> for table <TeamStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <Id> for table <PositionsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <None> for table <PlayersStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:40:31 - ERROR - [ORTEC] Error while setting PK <None> for table <TeamsStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:29 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:45:31 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:45:32 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:45:35 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:45:35 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:45:35 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:45:35 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:45:35 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:45:35 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:45:35 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:45:36 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:45:36 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error for table <TeamsLineUp>: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8).
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 648, in export_team_lineups
+    inspector = inspect(self.__db.engine)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/inspection.py", line 64, in inspect
+    ret = reg(subject)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 182, in _engine_insp
+    return Inspector._construct(Inspector._init_engine, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 117, in _construct
+    init(self, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 128, in _init_engine
+    engine.connect().close()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3197, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3276, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3247, in _wrap_pool_connect
+    e, dialect, self
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2101, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.OperationalError: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <Id> for table <Teams>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <MatchID> for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <PersonId> for table <Persons>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <Id> for table <VenuesMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <Id> for table <PlayerStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <Id> for table <TeamStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <Id> for table <PositionsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <None> for table <PlayersStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting PK <None> for table <TeamsStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - ERROR - [ORTEC] Error while setting FK for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 206, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:45:46 - INFO - [COOSTO] Table <projects> was successfully exported to csv!
+19.01.2022 17:45:49 - INFO - [COOSTO] Table <trending_topics> was successfully exported to csv!
+19.01.2022 17:45:49 - INFO - [COOSTO] Table <sources> was successfully exported to csv!
+19.01.2022 17:45:51 - INFO - [COOSTO] Table <sentiment> was successfully exported to csv!
+19.01.2022 17:45:51 - INFO - [COOSTO] Table <authors> was successfully exported to csv!
+19.01.2022 17:45:51 - INFO - [COOSTO] All data was successfully exported!
+19.01.2022 17:45:51 - ERROR - [DATABASE]Error while closing the connection: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 65, in close_connection
+    self.cursor.close()
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:11 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:47:14 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:47:14 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:47:17 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:47:17 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:47:17 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:47:17 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:47:17 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:47:18 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:47:18 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:47:18 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:47:18 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error for table <TeamsLineUp>: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8).
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 648, in export_team_lineups
+    inspector = inspect(self.__db.engine)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/inspection.py", line 64, in inspect
+    ret = reg(subject)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 182, in _engine_insp
+    return Inspector._construct(Inspector._init_engine, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 117, in _construct
+    init(self, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 128, in _init_engine
+    engine.connect().close()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3197, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3276, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3247, in _wrap_pool_connect
+    e, dialect, self
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2101, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.OperationalError: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <Id> for table <Teams>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <MatchID> for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <PersonId> for table <Persons>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <Id> for table <VenuesMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <Id> for table <PlayerStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <Id> for table <TeamStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <Id> for table <PositionsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <None> for table <PlayersStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting PK <None> for table <TeamsStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 176, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting FK for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 206, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting FK for table <Persons>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 206, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting FK for table <PlayersStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 206, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - ERROR - [ORTEC] Error while setting FK for table <TeamsStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 206, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:47:28 - INFO - [COOSTO] Table <projects> was successfully exported to csv!
+19.01.2022 17:47:30 - INFO - [COOSTO] Table <trending_topics> was successfully exported to csv!
+19.01.2022 17:47:30 - INFO - [COOSTO] Table <sources> was successfully exported to csv!
+19.01.2022 17:47:30 - INFO - [COOSTO] Table <sentiment> was successfully exported to csv!
+19.01.2022 17:47:31 - INFO - [COOSTO] Table <authors> was successfully exported to csv!
+19.01.2022 17:47:31 - INFO - [COOSTO] All data was successfully exported!
+19.01.2022 17:47:31 - ERROR - [DATABASE] Error while closing the connection: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 65, in close_connection
+    self.cursor.close()
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:51:51 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:51:57 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:51:58 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:52:00 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:52:00 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:52:01 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:52:01 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:52:01 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:52:01 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:52:01 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:52:02 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:52:02 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:52:12 - ERROR - [ORTEC] Error for table <TeamsLineUp>: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8).
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 651, in export_team_lineups
+    inspector = inspect(self.__db.engine)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/inspection.py", line 64, in inspect
+    ret = reg(subject)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 182, in _engine_insp
+    return Inspector._construct(Inspector._init_engine, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 117, in _construct
+    init(self, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 128, in _init_engine
+    engine.connect().close()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3197, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3276, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3247, in _wrap_pool_connect
+    e, dialect, self
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2101, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.OperationalError: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+19.01.2022 17:52:38 - ERROR - [DATABASE] Unable to connect to the database!
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 38, in __init__
+    f'DSN={self.__dsn};UID={self.__username_database};PWD={self.__password_database}')
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+19.01.2022 17:52:41 - INFO - [ORTEC] Connection to the API was established!
+19.01.2022 17:52:41 - INFO - [COOSTO] Connection to the API was established!
+19.01.2022 17:52:44 - INFO - [ORTEC] Table <PlayersStats> was successfully exported to csv!
+19.01.2022 17:52:44 - INFO - [ORTEC] Table <TeamsStats> was successfully exported to csv!
+19.01.2022 17:52:44 - INFO - [ORTEC] Table <PlayerStatsMeta> was successfully exported to csv!
+19.01.2022 17:52:44 - INFO - [ORTEC] Table <TeamStatsMeta> was successfully exported to csv!
+19.01.2022 17:52:44 - INFO - [ORTEC] Table <PositionsMeta> was successfully exported to csv!
+19.01.2022 17:52:44 - INFO - [ORTEC] Table <VenuesMeta> was successfully exported to csv!
+19.01.2022 17:52:44 - INFO - [ORTEC] Table <Matches> was successfully exported to csv!
+19.01.2022 17:52:45 - INFO - [ORTEC] Table <Persons> was successfully exported to csv!
+19.01.2022 17:52:45 - INFO - [ORTEC] Table <Teams> was successfully exported to csv!
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error for table <TeamsLineUp>: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8).
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+pyodbc.OperationalError: ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 651, in export_team_lineups
+    inspector = inspect(self.__db.engine)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/inspection.py", line 64, in inspect
+    ret = reg(subject)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 182, in _engine_insp
+    return Inspector._construct(Inspector._init_engine, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 117, in _construct
+    init(self, bind)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/reflection.py", line 128, in _init_engine
+    engine.connect().close()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3197, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3276, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3247, in _wrap_pool_connect
+    e, dialect, self
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2101, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3243, in _wrap_pool_connect
+    return fn()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 371, in __init__
+    self.__connect()
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/Users/ilya/PycharmProjects/psv/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 584, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.OperationalError: (pyodbc.OperationalError) ('08001', '[08001] [FreeTDS][SQL Server]Unable to connect to data source (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <Id> for table <Teams>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <MatchID> for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <PersonId> for table <Persons>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <Id> for table <VenuesMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <Id> for table <PlayerStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <Id> for table <TeamStatsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <Id> for table <PositionsMeta>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <None> for table <PlayersStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting PK <None> for table <TeamsStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 179, in set_pk_and_fk
+    self.__db.cursor.execute(query_pk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting FK for table <Matches>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 209, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting FK for table <Persons>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 209, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting FK for table <PlayersStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 209, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - ERROR - [ORTEC] Error while setting FK for table <TeamsStats>: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/ortec.py", line 209, in set_pk_and_fk
+    self.__db.cursor.execute(query_fk, table[0])
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
+19.01.2022 17:52:55 - INFO - [COOSTO] Table <projects> was successfully exported to csv!
+19.01.2022 17:53:00 - INFO - [COOSTO] Table <trending_topics> was successfully exported to csv!
+19.01.2022 17:53:01 - INFO - [COOSTO] Table <sources> was successfully exported to csv!
+19.01.2022 17:53:01 - INFO - [COOSTO] Table <sentiment> was successfully exported to csv!
+19.01.2022 17:53:01 - INFO - [COOSTO] Table <authors> was successfully exported to csv!
+19.01.2022 17:53:01 - ERROR - [DATABASE] Error while closing the connection: 'DatabaseConnection' object has no attribute 'cursor'.
+Traceback (most recent call last):
+  File "/Users/ilya/PycharmProjects/psv/database.py", line 65, in close_connection
+    self.cursor.close()
+AttributeError: 'DatabaseConnection' object has no attribute 'cursor'
